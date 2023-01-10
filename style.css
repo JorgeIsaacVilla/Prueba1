@@ -1,0 +1,763 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+}
+body{
+    background:#fff;
+    /*background: #f2f2f2;   */
+}
+h5{
+    font: 3.45vh 'Oswald', sans-serif;
+    margin-bottom: 2.6vh;
+}
+a{
+    color: #111111;
+    font: 1.725997842502697vh 'Oswald', sans-serif;
+}
+
+.leerMasBoton{
+    color: #fff;
+    font: 1.725997842502697vh 'Oswald', sans-serif;
+    background: black;
+    margin:  3.236245954692557vh 10.538025889967637vh 0px 0px;
+    padding: 1.0787486515641855vh 5.6094929881337645vh 1.0787486515641855vh 5.501618122977346vh;    
+}
+.enviarBoton{
+    color: #fff;
+    font: 1.725997842502697vh 'Oswald', sans-serif;
+    background: black;
+    margin:  3.236245954692557vh 10.538025889967637vh 0px 0px;
+    padding: 1.0787486515641855vh 5.6094929881337645vh 1.0787486515641855vh 5.501618122977346vh; 
+  }
+
+/*bloque1*/
+.header{
+    background: #ffffff;
+    width: 100%;
+    height: 8.629989212513484vh;
+}
+.logo{
+    margin-left: calc(100vh - 31.5%);
+    margin-top: 2.696871628910464vh;
+    width: 10vh; 
+    height: 5vh;
+}
+.checkbtn{
+    display: block;
+    float: right;
+    font-size: calc(1em + 8px);
+    margin-right: calc(100vh - 31.5%);
+    margin-top: 2.696871628910464vh;   
+  }
+/*bloque1*/
+/*bloque2*/
+.bloque2{
+color: #111111;
+background-color: #f2f2f2;
+width: 100%;
+height:  64.78014941302028vh;
+display: flex;
+justify-content:right;  
+   }
+
+    .bloque2Izquierdo{
+        background-color: #f2f2f2;
+        width: 62.469687162891056vh;
+        height: 53.61380798274002vh;
+        float:left;
+        padding-left:  4.314994606256742vh;
+        padding-top: 5.393743257820928vh;
+        padding-bottom: 5.393743257820928vh;
+        padding-right:  4.314994606256742vh;    
+    }
+    .bloque2Derecho{
+        background-color: #f2f2f2;
+        width: 862.1.725997842502697vh;
+        height: 100%;   
+    }
+    .consultoria{
+        color: #111;
+        font: 2.14vh "PT Sans", sans-serif;
+        margin: 5.1vh 0PX 0PX;
+        width: 29vh; 
+        height: 2.4vh;
+        
+    }
+        
+    .tituloPrincipal2{
+        color: #292d33;
+        margin-top: 7.68vh;
+        font-family:'Oswald', sans-serif; 
+        font-size:7.68vh; 
+        font-style:normal;
+        line-height: 110%;  
+    }
+    /*bloque2*/
+
+
+    /*bloque3*/
+.bloque3{
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 80vh;
+    justify-content: center;
+    }
+
+.superiorBloque3{
+    color: #fff;
+    background: #fb6e42;
+    width: 100%;
+    height: 48%;
+    text-align: center;
+    display: flex;
+    justify-content:center; 
+}
+.titulo1block3{
+    
+    width: 88.67313915857605vh;
+    font-size: 3.75rem;
+    font-weight: 75.51240560949299vh;
+    text-transform: none;
+    width: 80.90614886731392vh;
+    padding:  3.236245954692557vh 2.157497303128371vh;
+  }
+    
+.inferiorBloque3{
+    width: 100%;
+    height: 11.3vh;
+    justify-content:center;
+    display: flex;  
+}
+.section1Bloque3{
+    color: #111111;
+    background-color: #ffffff;
+    text-align: center;
+    width: calc(225.500px - 60px + 50px);
+    height: calc(297.69px -  40px + 50px);
+        padding-left:  2.157497303128371vh;padding-right:  2.157497303128371vh;
+        padding-top:  2.157497303128371vh;padding-bottom:  2.157497303128371vh;
+        margin-top: 1.6181229773462784vh;
+        margin-right: 2.696871628910464vh;        
+}
+
+
+.section2Bloque3{
+    color: #111111;
+    background-color: #ffffff;
+    text-align: center;
+    width: calc(225.500px - 60px + 50px);
+    height: calc(297.69px -  40px + 50px);
+        padding-left: 2.157497303128371vh;padding-right: 2.157497303128371vh;
+        padding-top:  3.236245954692557vh;padding-bottom:  3.236245954692557vh;
+        margin-top: -6.472491909385114vh;
+        margin-right: 2.696871628910464vh;
+}
+.section3Bloque3{
+    color: #111111;
+    background-color: #ffffff;
+    text-align: center;
+    width: calc(225.500px - 60px + 50px);
+    height: calc(297.69px -  40px + 50px);
+        padding-left: 2.157497303128371vh;padding-right: 2.157497303128371vh;
+        padding-top: 2.157497303128371vh;padding-bottom: 2.157497303128371vh;
+        margin-top: 1.6181229773462784vh;
+        margin-right: 2.696871628910464vh;
+}
+.section4Bloque3{
+    color: #111111;
+    background-color: #ffffff;
+    text-align: center;
+    width: calc(225.500px - 60px + 50px);
+    height: calc(297.69px -  40px + 50px);
+        padding-left: 2.157497303128371vh;padding-right: 2.157497303128371vh;
+        padding-top:  3.236245954692557vh;padding-bottom:  3.236245954692557vh;
+        margin-top: -6.472491909385114vh;
+        margin-right: 2.696871628910464vh;
+}
+
+
+.circuloNaranja{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.0787486515641855vh;
+    background-color: #fb6e42;
+    width: 8.414239482200648vh;
+    height: 8.414239482200648vh;
+    border-top-left-radius:  4.314994606256742vh;
+    border-top-right-radius:  4.314994606256742vh;
+    border-bottom-right-radius:  4.314994606256742vh;
+    border-bottom-left-radius:  4.314994606256742vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    }
+.circuloGris{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.0787486515641855vh;
+    background-color:#e0e5eb;   
+    width: 8.414239482200648vh;
+    height: 8.414239482200648vh;
+    border-top-left-radius:  4.314994606256742vh;
+    border-top-right-radius:  4.314994606256742vh;
+    border-bottom-right-radius:  4.314994606256742vh;
+    border-bottom-left-radius:  4.314994606256742vh;
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+}
+
+.parrBlock3{
+color: #555c66;
+font-family:'Open Sans', sans-serif;
+font-weight: lighter; 
+font-size:1.725997842502697vh; 
+font-style:oblique; 
+line-height: 150%;
+margin-top: 2.157497303128371vh;
+margin-right: 0.970873786407767vh;
+margin-left: 0.970873786407767vh;
+}
+
+.mas{
+margin-top: 2.157497303128371vh;
+margin-left: 10.044120819848974vh;
+margin-right: 10.044120819848974vh;
+margin-bottom: 0.10787486515641856vh;
+}
+
+.titulosBlock3{
+        color:#111111;
+        font-family:'Open Sans', sans-serif;
+        font-weight: lighter; 
+        font-weight: bold;
+        margin-top: 1.725997842502697vh;
+}
+    /*bloque3*/
+
+
+ /*bloque4*/
+    .bloque4{
+        background:#f2f2f2;
+        width: 100%;
+        height: 74.54153182308522vh;
+        display: flex;
+        justify-content:center 
+       }
+    
+        .bloque4Izquierdo{
+            background: #f2f2f2;
+            width: 51.0787486515641855vh;
+            height: 68.06903991370011vh;
+            float:left;
+            padding:  3.236245954692557vh;
+            background-image: url(./img/3816bc2b-2562-3d78-4901-cbbbcc9aa9a1.jpg);
+            background-size: 115%;
+            background-repeat: no-repeat;
+            
+        }
+        .bloque4Derecho{
+            background: #f2f2f2;
+            width:  50.70118662351672vh;
+            height: 68.06903991370011vh;
+            padding:  3.236245954692557vh;  
+        }
+
+       .block4Div2T2{
+        font: 5.17799352750809vh 'Oswald', sans-serif;
+        margin-bottom: 1.6181229773462784vh;
+        width:  50.70118662351672vh;
+        height: 20.71197411003236vh;
+        margin-top: 0.8629989212513485vh;
+        font-weight: bold;
+        line-height:100%
+       }
+
+       .parrblock4{ 
+        line-height: 160%; 
+        font-weight: lighter;
+        color:#111111;
+        font-size:1.725997842502697vh; 
+        font-family:'Open Sans', sans-serif;
+        font-weight: lighter; 
+        font-style:oblique;
+       }
+
+       .parr2Block4{
+        font-family:'Open-sans', sans-serif;
+        font-size:1.725997842502697vh;
+        font-weight: lighter;
+        margin-top: 1.941747572815534vh;
+        margin-right: 35.84142394822006vh;
+        width: 14.859762675296656vh;
+        height: 2.868824163969795vh;
+       }
+    /*bloque4*/
+
+    /*bloque5*/
+    .bloque5{
+        background: #ffffff;
+        width: 100%;
+        height: 100%;
+        }
+
+    .superiorBloque5{
+        background: #ffffff;
+        width: 100%;
+        height: 17.5%;
+        text-align: center;
+        justify-content:center;  
+        }
+
+    .servDeConsul{
+        font: 6.472491909385114vh 'Oswald',sans-serif;
+        font-weight: bold;
+        margin-top:8vh;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        height: 7.820927723840345vh;
+    }
+
+    .parrBlock5{
+        font-family:'Open-sans', sans-serif;
+        font-size:1.725997842502697vh;
+        font-style:oblique;
+        font-weight: lighter;
+        margin-top: 2.157497303128371vh;
+        width: 100%;
+        height: 13.804638619201725vh;
+        color: #555c66;
+        line-height: 150%;       
+    }
+        
+    .inferiorBloque5{
+        width: 100%;
+        height: 82.64%;
+        justify-content:center;
+        display: flex;
+    }
+
+    .titBlock5{
+        font:3.883495145631068vh 'Oswald', sans-serif; 
+    }
+
+    .section1Bloque5Superior{
+        background: rgb(255, 255, 255);
+        width: 26.18101402373247vh;
+            height: 25.35059331175836vh;
+            padding:  3.236245954692557vh; 
+
+    }
+    .section1bloque5Inferior{
+        background: rgb(255, 255, 255);
+        width: 26.18101402373247vh;
+            height: 25.35059331175836vh;
+            padding:  3.236245954692557vh; 
+
+    }
+    .section2Bloque5{
+        background: rgb(255, 255, 255);
+        background-image: url(./img/ed-min.jpg);
+        background-size: 110%;
+        background-repeat: no-repeat;
+        width: 37.06515641855448vh;
+        height: 5 3.236245954692557vh;
+        padding:  3.236245954692557vh;
+    }
+    .parrTextBlock5{
+        font-family:'Open Sans', sans-serif; 
+        font-size:1.725997842502697vh; 
+        font-style: oblique;
+        margin-top: 2.157497303128371vh;
+        margin-left: auto;
+        margin-right: auto;
+        width: 73.13915857605178vh;
+        height:  5.629773462783172vh;
+    }
+ /*bloque5*/
+
+ /*bloque6*/
+ .bloque6{
+    background: #f2f2f2;
+    width: 100%;
+    height: 80.30636461704422vh;
+    text-align: center;
+    
+    }
+    .superiorBloque6{
+        background: #f2f2f2;
+        width: 100%;
+        height: 20.35%;
+        margin-top:8vh;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .titulBlock6{
+        font:6.472491909385114vh 'Oswald',sans-serif;
+        font-weight: bold;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:8vh;
+        width:  89.01704422869472vh;
+        height: 9.713052858683927vh;
+    }
+
+.parrBlock6{ 
+    font-family:'Open Sans', sans-serif; 
+    font-size:1.725997842502697vh; 
+    margin-top: 2.157497303128371vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 73.13915857605178vh;
+    height:  11.629773462783172vh;
+    color:#555c66
+}
+
+.parr2block6{
+    font-family:'Open Sans', sans-serif; 
+    font-size:1.725997842502697vh; 
+    line-height: 180%;
+}
+    .inferiorBloque6{
+        background: #f2f2f2;
+            width: 100%;
+            height: 62.43%;
+            justify-content:center;
+            display: flex;
+        }
+
+        .sectionBloque6{
+            background: #f2f2f2;
+            width: 35.23797195253506vh;
+                height: 45.81984897518878vh;
+                padding: 2.157497303128371vh; 
+    
+        }
+
+        .sectionBloque6Superior{
+            background: #ffffff;
+            width: 30.92297734627832vh;
+                height:  29.46666666666667vh;
+                padding: 2.157497303128371vh; 
+    
+        }
+
+        .sectionNaranjBloque6Superior{
+            background:  #fb6e42;
+            width: 30.92297734627832vh;
+            height:  29.46666666666667vh;
+            padding: 2.157497303128371vh; 
+    
+        }
+        .sectionbloque6Inferior{
+            background:  #f2f2f2;
+            height:  4.314994606256742vh;
+            padding:  3.236245954692557vh;
+            justify-content: center;
+            display: block;
+        }
+
+        .comNar{
+            background:white;
+        }
+
+        .comBlanc{
+            background:#fb6e42;
+        }
+
+.nomUserBlock6{
+   
+    font: 1.725997842502697vh 'Montserrat',sans-serif;
+    font-weight: bold;
+    margin-top: 1.8338727076591155vh;
+}
+
+.imagUserBlock6{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.0787486515641855vh;
+    width: 8.414239482200648vh;
+    height: 8.414239482200648vh;
+    border-top-left-radius:  4.314994606256742vh;
+    border-top-right-radius:  4.314994606256742vh;
+    border-bottom-right-radius:  4.314994606256742vh;
+    border-bottom-left-radius:  4.314994606256742vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+ /*bloque6*/
+
+ /*bloque7*/
+ .bloque7{
+    background: #ffffff;
+    width: 100%;
+    height: 89.64401294498381vh;
+    display: flex;
+    justify-content:center;
+   }
+
+    .bloque7Izquierdo{
+        background: #ffffff;
+        width: 84.03451995685005vh;
+        height: 76.69902912621359vh;
+        float:left;   
+    }
+    .bloque7Derecho{
+        background: #ffffff;
+        width: 31.3915857605178vh;
+        height: 63.75404530744336vh;
+        padding:  3.236245954692557vh; 
+        padding-left:  4.314994606256742vh;padding-right:  3.236245954692557vh;
+        padding-top:  6.472491909385114vh;padding-bottom:  6.472491909385114vh; 
+    }
+
+    .titulBlock7{
+        font: 5.17799352750809vh 'Oswald',sans-serif;
+        font-weight: bold;
+    }
+    .parrTextBlock7{
+        font: 1.941747572815534vh 'Open Sans',sans-serif;
+        line-height: 200%; 
+        font-style:oblique;
+        font-weight: bold;
+        margin-top: 2.157497303128371vh;
+    }
+
+    .parr2Block7{
+
+        font: 1.725997842502697vh 'Open Sans',sans-serif;
+        line-height: 200%; 
+        color: #555c66;
+        margin-top: 2.157497303128371vh;
+    }
+    
+
+    .cuadroNaranja{
+        background: #fb6e42;
+        width: 42.17907227615965vh;
+        height: 60.625674217907225vh;
+        margin-top: 17.25997842502697vh;
+        margin-left: 6.040992448759439vh;
+        margin-right: 35.81445523193096vh;
+    }
+    .cuadroGris{
+        background: #f2f2f2;
+        width: 84.03451995685005vh;
+        height: 37.32470334412082vh;
+        display: flex;
+        margin-top: - 49.622437971952536vh;
+    }
+    .cuadroRallado{
+        background: #ffffff;
+        width: 51.725997842502697vh; 
+        height:  42.93419633225459vh;
+        margin-top: -53.937432578209275vh;
+        margin-left: 30.204962243797194vh;
+
+    }
+    .foto{
+        width: 51.725997842502697vh; 
+        height:  42.93419633225459vh;
+        margin-top: -58.25242718446602vh;
+        margin-left: 21.57497303128371vh;
+    }
+
+ /*bloque7*/
+
+  /*bloque8*/
+  .bloque8{
+    background: #f2f2f2;
+    width: 100%;
+    height: 91.89590075512406vh;
+    display: flex;
+    justify-content:center 
+   }
+
+    .bloque8Izquierdo{
+        background: #f2f2f2;
+        width: 51.0787486515641855vh;
+        height: 68.06903991370011vh;
+        float:left;
+        padding:  3.236245954692557vh; 
+        margin-top: 17.25997842502697vh;   
+    }
+
+    .contBlock8{
+        color:#111111;
+        font: 2.157497303128371vh 'Montserrat',sans-serif;
+    }
+
+    .titulBlock8{
+        font:5.17799352750809vh 'Oswald',sans-serif;
+        font-weight: bold;
+        width: 38.61920172599784vh;
+        height:  22.782092772384036vh; 
+        margin-top: 6.472491909385114vh;
+        color: #fb6e42;
+        line-height: 100%;
+        
+    }
+
+    .bloque8Derecho{
+        background: #ffffff;
+        width: 71.41316073354908vh;
+        height: 72.47842502696872vh;
+        padding:  3.236245954692557vh;
+        margin-top: 6.472491909385114vh;
+    }
+
+    .bloque8DerechoInfo{
+        padding-top: 2.157497303128371vh;
+        padding-bottom: 2.157497303128371vh;  
+        line-height: 110%;
+        display: flex;
+        justify-content:right;
+    }
+
+.parrBlock8{
+    font: 1.725997842502697vh 'Open Sans',sans-serif;
+    line-height: 170%; 
+    color: #555c66;
+    margin-right:  3.236245954692557vh; 
+    margin-left:  3.236245954692557vh;
+    width: 51.77993527508091vh;
+    height: 13.804638619201725vh;
+}
+
+.iconBlock8{ 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.0787486515641855vh;
+    background-color: #fb6e42;
+    width: 8.414239482200648vh;
+    height: 8.414239482200648vh;
+    border-top-left-radius:  4.314994606256742vh;
+    border-top-right-radius:  4.314994606256742vh;
+    border-bottom-right-radius:  4.314994606256742vh;
+    border-bottom-left-radius:  4.314994606256742vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-right:  3.236245954692557vh; 
+    margin-left:  3.236245954692557vh;
+}
+  /*bloque8*/
+
+  /*bloque9*/
+  .bloque9{
+    background: #fb6e42;
+    width: 100%;
+    height: 74.54153182308522vh;
+    display: flex;
+    justify-content:center 
+   }
+    .bloque9Izquierdo{
+        color: #f2f2f2;
+        background: #fb6e42;
+        width: 51.0787486515641855vh;
+        height: 68.06903991370011vh;
+        float:left;
+        padding:  3.236245954692557vh;    
+    }
+    .bloque9Derecho{
+        color: #ffffff;
+        background:#fb6e42;
+        width:  50.70118662351672vh;
+        height: 68.06903991370011vh;
+        padding:  3.236245954692557vh;
+    }
+    .plantillaDatos{
+        background-color: #ffffff;
+        color: black;
+        width: 42.28694714131608vh;
+        height: 51.0787486515641855vh;
+        padding:  3.236245954692557vh;    
+    }
+
+    .ayudBlock9{
+        color: #ffffff;
+        font: 2.157497303128371vh 'Montserrat',sans-serif;
+    }
+
+    .conten1Block9{
+        font: 7.011866235167206vh 'Oswald', sans-serif;
+        line-height: 110%;
+        font-weight: bold;
+        color: #f2f2f2;
+    }
+
+    .conten2Block9{
+        margin-top: 2.157497303128371vh;
+        font: 1.725997842502697vh 'Open Sans', sans-serif;
+        margin-bottom: 5.393743257820928vh;
+        color: #f2f2f2;
+    }
+
+    li{
+        font: 2.157497303128371vh 'Oswald', sans-serif;
+        font-weight: bold;
+        color: #f2f2f2;   
+    }
+
+    .dataBlock9{
+        font: 5.17799352750809vh 'Oswald', sans-serif;
+        color: #fdc4b3;
+    }
+    
+    .titulBlock9{
+        font:  3.236245954692557vh 'Montserrat', sans-serif;
+    }
+.imput1{padding: 1.0787486515641855vh 1.2944983818770226vh; 
+    height:3.2998921251348436vh; 
+    width: 43.236245954692557vh
+}
+.imput2{
+    padding: 1.0787486515641855vh 1.2944983818770226vh; 
+    height:12.157497303128371vh; 
+    width: 43.236245954692557vh;
+    margin-bottom: 1.0787486515641855vh;
+}
+.enviarBoton2{
+    color: #fff;
+    font: 1.725997842502697vh 'Oswald', sans-serif;
+    background: black;
+    padding: 1.0787486515641855vh 22.114347357065803vh 1.0787486515641855vh 22.114347357065803vh;
+}
+.labelB9{
+    font: 1.725997842502697vh 'Open Sans', sans-serif;
+   
+}
+  /*bloque9*/
+  .footer{
+    width: 100%;
+    height: 15.402481121898598vh;
+  }
+  .footer1{
+    color: #ffffff;
+    background-color: #292d33;
+    text-align: center;
+    width: 98.65%;
+    height: 15.402481121898598vh;
+    justify-content: center;
+    height: 7.075943905070118vh;
+    padding: 1.4023732470334411vh;
+  }
+  .footer2{
+    color: #ffffff;
+    text-align: center;
+    background-color: #292d33;
+    width: 98.65%;
+    height: 7.075943905070118vh;
+    padding: 1.4023732470334411vh;
+  }
+.pfoot{
+    color: #ffffff;
+    margin-left: 38.996763754045304vh;
+    margin-right: 38.996763754045304vh;
+    margin-top: 5.28586839266451vh;
+    margin-bottom: 5.28586839266451vh;
+}
